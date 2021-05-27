@@ -1,0 +1,47 @@
+{
+  "CA": {
+    "name": "Canada",
+    "cities": [
+      "Toronto",
+      "Montreal",
+      "Vancouver",
+      "Calgary",
+      "Edmonton",
+      "Winnipeg",
+      "Quebec City",
+      "Hamilton",
+      "Kitchener",
+      "Victoria"
+    ]
+  },
+  "US": {
+    "name": "United States",
+    "cities": [
+      "Chicago",
+      "Dallas",
+      "Houston",
+      "Los Angeles",
+      "New York",
+      "Philadelphia",
+      "Phoenix",
+      "San Antonio",
+      "San Diego",
+      "San Jose"
+    ]
+  },
+  "GB": {
+    "name": "United Kingdom",
+    "cities": [
+      "Birmingham",
+      "Bradford",
+      "Bristol",
+      "Cardiff",
+      "Edinburgh",
+      "Glasgow",
+      "Leeds",
+      "Liverpool",
+      "Manchester",
+      "Sheffield"
+    ]
+  }
+}
